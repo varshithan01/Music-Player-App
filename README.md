@@ -226,28 +226,5 @@ This project demonstrates:
 
 ---
 
-```
 
----
-
-# ⚠️ IMPORTANT (Do this before pushing)
-
-* Create folder: `assets/`
-* Add images:
-
-  * `home.png`
-  * `player.png`
-
----
-
-# 💡 Bonus Tip (🔥 for recruiters)
-
-Add this at top if you record video:
-
-```md
-## 🎥 Demo Video
-Have been added in repo
-```
-
----
 
