@@ -8,16 +8,7 @@ A modern music streaming app built with React Native using the JioSaavn API, fea
 Mume Music is a modern, high-performance music streaming application built using React Native (Expo).  
 It delivers a seamless experience with real-time playback, smart data fetching, offline fallback, and persistent user data.
 
----
 
-## 📱 App Preview
-
-<p align="center">
-  <img src="assets/home.png" width="250"/>
-  <img src="assets/player.png" width="250"/>
-</p>
-
----
 
 ## 🚀 Features
 
