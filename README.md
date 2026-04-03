@@ -195,7 +195,7 @@ eas build -p android --profile preview
 
 ## 🎥 Demo
 
-(Add your demo video link here)
+I have added in the repo
 
 ---
 
